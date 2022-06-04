@@ -3,7 +3,9 @@
 Repo to test out the latest transformers architecture
 
 ## Architectures
-- [ ] Data2Vec
+- [x] Data2Vec
+- [x] LayoutLmv3
+- [ ] LayoutLmv1
 
 # ToDO
 - Speech
@@ -13,3 +15,5 @@ Repo to test out the latest transformers architecture
   - [ ] Image Classification
 - Text
   - [ ] Text Classification
+- MultiModal
+  - [x] Token Classification
