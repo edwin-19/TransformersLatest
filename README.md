@@ -5,7 +5,7 @@ Repo to test out the latest transformers architecture
 ## Architectures
 - [x] Data2Vec
 - [x] LayoutLmv3
-- [ ] LayoutLmv1
+- [x] LayoutLmv1
 
 # ToDO
 - Speech
