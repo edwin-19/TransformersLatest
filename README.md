@@ -7,13 +7,18 @@ Repo to test out the latest transformers architecture
 - [x] LayoutLmv3
 - [x] LayoutLmv1
 
+# Finetuned frameworks
+- [x] PytorchLightning
+- [x] ComposerML
+
 # ToDO
 - Speech
   - [x] Speech Classification
   - [ ] Text To Speech
 - Image
-  - [ ] Image Classification
+  - [x] Image Classification
+  - [x] Image Segmentation
 - Text
-  - [ ] Text Classification
+  - [x] Text Classification
 - MultiModal
   - [x] Token Classification
